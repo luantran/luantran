@@ -7,9 +7,6 @@ Previously interned at Ericsson and Broadsign. Also spent a couple years teachin
 📍 Montreal &nbsp;·&nbsp; 🌐 [portfolio.luantran.dev](https://portfolio.luantran.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/theluantran/)
 
 ---
-
-## 🛠️ Tech Stack
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
@@ -26,21 +23,3 @@ Previously interned at Ericsson and Broadsign. Also spent a couple years teachin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" title="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
 </p>
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Concordia Safe Path](https://github.com/luantran/concordia-safe-path) | Campus safety app with real-time incident reporting, proximity alerts, and accessible route planning | React Native, Expo, Supabase |
-| [Council of Classifiers](https://github.com/luantran/CouncilOfClassifiers) | Web app that classifies English proficiency levels (A1–C2) using an ensemble of NLP models | Flask, React, HuggingFace, GCP |
-| [One Model to Grade them All](https://github.com/luantran/One-model-to-grade-them-all) | Compared Naive Bayes, Word2Vec, and fine-tuned RoBERTa for automatic CEFR classification | Python, PyTorch, HuggingFace |
-| [Notilytics](https://github.com/luantran/Notilytics) | Reactive news analytics app with real-time article streaming and sentiment analysis | Scala, Pekko Actors |
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luantran&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luantran&layout=compact&theme=tokyonight&hide_border=true)
